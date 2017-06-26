@@ -1,3 +1,3 @@
-# hello-world
-sample repository
-Hello world is such a cute name. Try to keep that attitude everyday!
+# ANLY510-Assignment7
+collaboration on repository and data cleanup
+
